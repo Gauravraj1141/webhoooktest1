@@ -1,0 +1,17 @@
+app_details:
+  app_name: HubSpot CRM
+  github_url: https://github.com/Nikhil880495/GitHubAppTest.git
+  branch_name: Banglore
+  publisher: Sarci
+  version: 1.0
+  modules: stores, purchase_order, invoices
+  app_native_role: [admin, readall, writeall, reportall]
+  app_custom_roles: [add_admin, add_branch, delete_branch, delete_admin]
+  resources:
+    app_credentials:
+      appId: "a6484a29-c919-40fe-b5d2-799dd0df751a"
+      password: "svF8Q~2cg1w12g6idxfBjrAww_6o.M2N2d2upa~P"
+    third_party_details:
+      third_party_vendor_name: Zoho
+      third_party_vendor_user_name: zoho123
+      third_party_vendor_password: 3r43ddffrgf54vregre
