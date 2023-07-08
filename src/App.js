@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      quick book pro
+      quick book max
         
     </div>
   );
