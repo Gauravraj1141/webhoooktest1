@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      my wishworks app
+      quick book app 2
         
     </div>
   );
