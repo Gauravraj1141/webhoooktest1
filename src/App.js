@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      quick book app 2
+      quick book app 
         
     </div>
   );
