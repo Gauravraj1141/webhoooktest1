@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      new Quick bookggggg
+      new Quick bookgggg
     </div>
   );
 }
