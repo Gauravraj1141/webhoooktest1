@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      seeting up new
+      Quick book testing app
     </div>
   );
 }

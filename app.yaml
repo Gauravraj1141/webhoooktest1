@@ -1,7 +1,8 @@
 app_details:
-  app_name: quickbooktest
+  app_name: quickbooktesting
   github_url: https://github.com/Gauravraj1141/webhoooktest1
-  branch_name: Banglore
+  branch_name: Mumbai
+  vendor_name: Microsoft
   publisher: Sarci
   version: 1.0
   modules: [stores, purchase_order, invoices]
@@ -12,6 +13,6 @@ app_details:
       appId: "a6484a29-c919-40fe-b5d2-799dd0df751a"
       password: "svF8Q~2cg1w12g6idxfBjrAww_6o.M2N2d2upa~P"
     third_party_details:
-      third_party_vendor_name: Zoho
-      third_party_vendor_user_name: zoho123
+      third_party_vendor_name: Microsoft
+      third_party_vendor_user_name: Microsoft123
       third_party_vendor_password: 3r43ddffrgf54vregre
