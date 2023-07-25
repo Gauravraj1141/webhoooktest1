@@ -1,8 +1,8 @@
 app_details:
-  app_name: codeplay25
+  app_name: codeplay26
   github_url: https://github.com/Gauravraj1141/webhoooktest1
-  branch_name: Mumbai
-  vendor_name: Microsoft
+  branch_name: Bangalore
+  vendor_name: Surya Facilities
   publisher: Sarci
   version: 1.0
   modules: [stores, purchase_order, invoices]
@@ -13,6 +13,6 @@ app_details:
       appId: "a6484a29-c919-40fe-b5d2-799dd0df751a"
       password: "svF8Q~2cg1w12g6idxfBjrAww_6o.M2N2d2upa~P"
     third_party_details:
-      third_party_vendor_name: Microsoft
-      third_party_vendor_user_name: Microsoft123
+      third_party_vendor_name: Surya Facilities
+      third_party_vendor_user_name: Surya Facilities123
       third_party_vendor_password: 3r43ddffrgf54vregre
