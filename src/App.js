@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      codeplay 26
+      code play with gr
     </div>
   );
 }
